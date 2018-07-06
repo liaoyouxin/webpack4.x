@@ -1,0 +1,8 @@
+# Dir 
+multiplyWebpack/node_modules/ 
+webpackDemo/node_modules/ 
+multiplyWebpack/dist/  
+webpackDemo/dist/  
+ 
+# File 
+package-lock.json 
