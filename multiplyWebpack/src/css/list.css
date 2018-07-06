@@ -1,0 +1,9 @@
+body{
+	background-color: yellow
+}
+.img{
+	width: 100px;
+	height: 100px;
+	margin-left: 200px;
+	background: url('../img/earth.png');
+}
